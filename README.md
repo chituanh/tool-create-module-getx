@@ -1,7 +1,7 @@
 # create getx template
 
 
-### Hướng dẫn sử dg 
+### Hướng dẫn sử dụng
 
 点击左下角的`monia-generate` 文字按钮，输入`pageName`，即可在`pages`目录下新建一个`flutter getx page`：
 
