@@ -1,5 +1,8 @@
 # create getx template
 
+### Cài Đặt
+
+Cứ ném vào trong `user`/.vscode/extensions/ là bắt đầu xài thôi
 
 ### Hướng dẫn sử dụng
 
